@@ -1,59 +1,36 @@
-<h1 align="left">Hi, I'm Arthur</h1>
-
-<div align="left">
-  <img src="./src/assets/icon/typewriter.gif" height="45" />
-</div>
+# **Hi, I'm arthur**
 
 <div align="center">
-  <img src="https://i.pinimg.com/originals/aa/8d/79/aa8d79b7d3d771867507c234e835b6b5.gif"  width="100%"/>
+<img src="https://i.pinimg.com/originals/aa/8d/79/aa8d79b7d3d771867507c234e835b6b5.gif" alt="profile-banner" width="100%">
 </div>
 
-<h3 align="left">Contact me:</h3>
-
-<div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
-  <a href="https://www.instagram.com/dev.arthurr_" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-  <a href="https://discord.gg/https://discord.gg/https://discord.gg/PMdCfnvSzr" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  </a>
-  <a href="lvc.arthur@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-</div>
-
+## about me:
+```typescript
+interface profileSchema {
+   name?: string
+   role?: string
+   description?: string
+   stack?: string[]
+}
+const me = {
+   name: 'arthur.',
+   role: 'Backend Developer.',
+   description: 'nothing special.',
+   stack: [ 'JavaScript', 'TypeScript', 'MongoDB' ]
+}
+```
 ---
+<!-- <h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://github.com/arthur-yx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="arthur-yx" height="30" width="40" /></a>
+</p> -->
 
-<h3 align="left">Techs:</h3>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/mongodb" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/typescript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/> </a></p>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" height="40" alt="nodejs logo"  />
-</div>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arthur-yx&show_icons=true&locale=en&layout=compact" alt="arthur-yx" /></p>
 
----
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arthur-yx&show_icons=true&locale=en" alt="arthur-yx" /></p>
 
-<h3 align="left">Statistics:</h3>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arthur-yx&" alt="arthur-yx" /></p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lev-Arthur&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" width="100%" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Lev-Arthur&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" width="100%" alt="languages graph"  />
-</div>
-
-<!--<img src="https://raw.githubusercontent.com/Lev-Arthur/Lev-Arthur/output/snake.svg" alt="Snake animation" />-->
-
-<!--<picture>-->
-<!--  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lev-Arthur/Lev-Arthur/output/pacman-contribution-graph-dark.svg">-->
-<!--  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Lev-Arthur/Lev-Arthur/output/pacman-contribution-graph.svg">-->
-<!--  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Lev-Arthur/Lev-Arthur/output/pacman-contribution-graph.svg">-->
-<!--</picture>-->
