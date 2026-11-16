@@ -1,7 +1,7 @@
 # **Hi, I'm arthur**
 
 <div align="center">
-<img src="https://i.pinimg.com/originals/aa/8d/79/aa8d79b7d3d771867507c234e835b6b5.gif" alt="profile-banner" width="100%">
+<img src="./src/assets/background/my.love.denia.gif" alt="profile-banner" width="100%">
 </div>
 
 ## about me:
