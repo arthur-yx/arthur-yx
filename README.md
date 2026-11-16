@@ -5,7 +5,7 @@
 </div>
 
 ## about me:
-```typescript
+```TypeScript
 interface profileSchema {
    name?: string
    role?: string
