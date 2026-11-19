@@ -5,14 +5,14 @@
 </div>
 
 ## about me:
-```TypeScript
+```ts
 interface profileSchema {
    name?: string
    role?: string
    description?: string
    stack?: string[]
 }
-const me = {
+const me: profileSchema = {
    name: 'arthur.',
    role: 'Backend Developer.',
    description: 'minimalist individual.',
